@@ -6,7 +6,7 @@ while choix != "0":
     print("1. Ajouter une tache")
     print("2. Afficher les taches")
     print("3. Rechercher une tache")
-    print("0. Quitter")
+    print("0. Quitter ")
     choix = input("Votre choix : ")
 
     if choix == "1":
