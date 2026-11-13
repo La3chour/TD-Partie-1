@@ -20,3 +20,5 @@ Message d'erreur si l'option du menu est invalide
 2 Ouvrir le fichier main.py
 3 Cliquer sur le bouton "Run Python File" (le triangle en haut à droite)
 4 Utiliser le menu dans le terminal
+
+Projet réalisé dans le cadre du TD Git/GitHub.
